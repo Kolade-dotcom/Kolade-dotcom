@@ -30,8 +30,10 @@ Welcome to my GitHub profile! I'm passionate about crafting digital experiences 
 
 ### 📂 Featured Repositories:
 
-- [Project 1](link-to-project1): Brief description.
-- [Project 2](link-to-project2): Brief description.
+- [Task Hub](https://github.com/Kolade-dotcom/taskhub): TaskHub is a robust Full Stack Tasks Manager software developed using Django Rest Framework (DRF), React, Material-UI (MUI), and Postman. The application seamlessly integrates front-end and back-end technologies to provide a comprehensive task management solution..
+- [Memes API](https://github.com/Kolade-dotcom/memes-api): This is a simple web scraper built using Node.js and Express to fetch memes from various sources. It utilizes Axios for making HTTP requests and Cheerio for parsing HTML content. The scraper provides endpoints to access the fetched memes.
+- [Pro](https://github.com/Kolade-dotcom/auctions): This Django project is an auction site where users can create listings, place bids, add items to their watchlist, and interact with other users through comments. The project also includes an admin interface for site administrators to manage listings, comments, and bids..
+- [Wiki](https://github.com/Kolade-dotcom/wiki): This Django project is an encyclopedia application that allows users to create, edit, and search for encyclopedia entries. The project also includes features such as random page navigation and Markdown to HTML conversion.
 
 Feel free to explore my repositories and reach out for collaboration or just to say hi! 👍
 
