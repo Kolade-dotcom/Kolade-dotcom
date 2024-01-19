@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about crafting digital experiences 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akolade_Salako-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akolade-salako/)
 [![Twitter](https://img.shields.io/badge/Twitter-@sal_kolade-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sal_kolade)
-[![Portfolio](https://img.shields.io/badge/Portfolio-akoladesalako.dev-8B89CC?style=for-the-badge&logoColor=white)](https://kolade.pythonanywhere.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akoladesalako.dev-8B89CC?style=for-the-badge&logoColor=white)](http://bit.ly/427hvmx)
 
 ### 📈 GitHub Stats:
 
